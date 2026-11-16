@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hL1J3pbZjOw=",
+  "success": true,
+  "projectFilePath": "C:\\mai-anh\\PhucVosk\\PhucVosk\\PhucVosk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEHIE\\.nuget\\packages\\vosk\\0.3.38\\vosk.0.3.38.nupkg.sha512"
+  ],
+  "logs": []
+}
